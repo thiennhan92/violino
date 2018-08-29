@@ -1,6 +1,7 @@
 # VIOLINO
 Violino is an open hard-ware project. Created form iMX233-OLinuXino-MAXI SINGLE-BOARD COMPUTER schematic
 https://www.olimex.com/Products/OLinuXino/iMX233/iMX233-OLinuXino-MAXI/open-source-hardware
+
 Ho Chi Minh City - August 2018
 # Target
 * Building a Single-Board Computer
