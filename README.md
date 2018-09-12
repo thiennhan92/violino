@@ -27,7 +27,7 @@ Ho Chi Minh City - August 2018
 ![Front view](/doc/3dview-top.png)
 ![Back view](/doc/3dview-bottom.png)
 
-# 1st VIOLINO BOARD
-![Front view](/doc/top.JPG)
-![Back view](/doc/bottom.JPG)
+# PCB BOARD
+![Front view](/doc/top.jpg)
+![Back view](/doc/bottom.jpg)
 
