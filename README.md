@@ -14,14 +14,14 @@ Ho Chi Minh City - August 2018
 * TV PAL/NTSC video output
 * 1 micro USB connect with iMX233 IC
 * 2 USB High Speed Hosts
-* Ethernet 100 Mbit
+* Ethernet 10/100 Mbit
 * Two buttons
 * Two led power
 * 44 pin GPIO for connection of other hardware
 * Power supply input 5VDC, min current 1.5A
 * 4 layer FR-4 PCB
 * PCB dimensions: 3.54'' x 1.97'' (90.0mm x 50.0mm)
-* Nominal dimensions: 3.70'' x 2.65'' (94.0mm x 67.3mm)
+
 
 # 3D VIEW
 ![Front view](/doc/3dview-top.png)
