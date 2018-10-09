@@ -31,3 +31,11 @@ Ho Chi Minh City - August 2018
 ![Front view](/doc/top.jpg)
 ![Back view](/doc/bottom.jpg)
 
+#FIST BOOT
+![Front view](/doc/uboot-imx233.png)
+![Back view](/doc/debian.png)
+
+#LCD
+![Front view](/doc/kernal.JPG)
+
+
